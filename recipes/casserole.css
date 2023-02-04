@@ -10,3 +10,8 @@ img {
     height: auto;
     width: auto;
 }
+
+h2 {
+    background-color: chocolate;
+    color: white;
+}
